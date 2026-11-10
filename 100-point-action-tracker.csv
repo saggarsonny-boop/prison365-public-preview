@@ -1,0 +1,101 @@
+Number,Priority,Improvement,Status as of Nov 10
+1,P0,"Recruit a voluntary, diverse 12–20-person reader panel",Not verified / external work required
+2,P0,Run a seven-day paper usability pilot,Not verified / external work required
+3,P0,Test the book with families,Not verified / external work required
+4,P0,Ask educators and librarians for a suitability review,Not verified / external work required
+5,P0,Verify the 52 puzzle solutions and hints,Not verified / external work required
+6,P0,Rank cartoons by two-second comprehension,Not verified / external work required
+7,P0,Edit all prompts for an adult audience,Not verified / external work required
+8,P0,Track the five most skipped pages in a pilot,Not verified / external work required
+9,P1,Introduce a rotating weekly content promise,Planned
+10,P1,Offer a low-reading-load companion sampler,Planned
+11,P0,Lead with a real page photograph,Partially implemented — verification or future launch required
+12,P0,"Put the actual, current 2027 edition and status above the fold",Partially implemented — verification or future launch required
+13,P0,Give the site three obvious paths,Partially implemented — verification or future launch required
+14,P0,Offer a short downloadable sampler,Partially implemented — verification or future launch required
+15,P0,Add an accessible browser puzzle,Partially implemented — verification or future launch required
+16,P1,A/B test two headlines,Planned
+17,P1,Separate “coming soon” from “available to buy”,Partially implemented — verification or future launch required
+18,P1,Show a printed-book photo beside the sample,Planned
+19,P1,Create a genuinely useful family FAQ,Planned
+20,P1,Measure five conversion events,Planned
+21,P0,Build a verified ship-to-prison checklist,Partially implemented — verification or future launch required
+22,P1,Write an empathetic family gift description,Partially implemented — verification or future launch required
+23,P1,Make a printable “ask the facility” checklist,Partially implemented — verification or future launch required
+24,P1,Test a family + reader two-copy offering,Partially implemented — verification or future launch required
+25,P1,Create a shareable single puzzle card,Partially implemented — verification or future launch required
+26,P1,Add an honest “how to send a book” landing page,Partially implemented — verification or future launch required
+27,P1,Compare convenience versus price for approved fulfillment routes,Partially implemented — verification or future launch required
+28,P1,Offer a family email update,Planned
+29,P2,Create a holiday gifting guide,Partially implemented — verification or future launch required
+30,P2,Explore gift notes through compliant channels,Planned
+31,P0,Calculate black-and-white versus color print costs,Not verified / external work required
+32,P0,"Confirm the final ISBN, edition imprint and metadata",Not verified / external work required
+33,P0,Obtain and inspect a physical proof,Not verified / external work required
+34,P0,Price around contribution margin,Not verified / external work required
+35,P1,Test three prices on a prelaunch interest panel,Not verified / external work required
+36,P1,Compare 7×10 with a more portable trim,Not verified / external work required
+37,P1,Consider a less-expensive monochrome edition,Not verified / external work required
+38,P1,Keep the full illustrated edition as the flagship,Not verified / external work required
+39,P2,Offer a digital family companion edition,Not verified / external work required
+40,P2,Explore a timeless undated edition,Planned
+41,P0,Research each target organization's donation criteria,Not verified / external work required
+42,P1,Send a concise voluntary-review pitch to books-to-prisoners programs,Partially implemented — verification or future launch required
+43,P1,Prepare a one-page institutional evaluation sheet,Partially implemented — verification or future launch required
+44,P1,Offer a small approved pilot through a single institution,Not verified / external work required
+45,P1,Ask prison librarians about real reader requests,Partially implemented — verification or future launch required
+46,P1,Create a bulk-purchase quote sheet,Not verified / external work required
+47,P1,Reach literacy nonprofits through their published organizational channels,Not verified / external work required
+48,P2,Test independent bookstore partnerships,Not verified / external work required
+49,P2,Produce a library catalog record and suitable classification metadata,Not verified / external work required
+50,P2,Create a feedback loop for rejected deliveries,Not verified / external work required
+51,P0,Establish canonical URL prison365.newphysician.org,Partially implemented — verification or future launch required
+52,P1,Create landing pages for specific intents,Partially implemented — verification or future launch required
+53,P1,Publish one genuine sample page per week,Partially implemented — verification or future launch required
+54,P1,Release occasional standalone original riddles,Planned
+55,P1,Make share images with readable lettering and alt text,Planned
+56,P1,Publish a short origin essay,Planned
+57,P1,Add a transparent editions/changelog page,Planned
+58,P1,Build a resource page linking out to official institution policies,Planned
+59,P2,Publish a “behind one cartoon” feature,Planned
+60,P2,"Invite earned media through arts, education and reentry outlets",Planned
+61,P1,Identify family-support organizations,Planned
+62,P1,Offer a sample to reentry educators,Planned
+63,P1,Approach public libraries for community talks,Planned
+64,P1,Invite credible former incarcerated reviewers,Planned
+65,P1,Offer defense attorneys a neutral one-page description,Planned
+66,P2,Seek prison arts-program relationships,Planned
+67,P2,Partner with educators who work on adult literacy,Planned
+68,P2,Ask chaplains and secular program staff to assess belief inclusion,Planned
+69,P2,Explore ethical employer-supported family book programs,Planned
+70,P2,Consider correctional conference exhibits,Planned
+71,P0,Never publish invented reader testimonials or “approved by prisons” badges,Partially implemented — verification or future launch required
+72,P0,Record real human editorial contributors and rights,Not verified / external work required
+73,P1,Collect structured voluntary pilot feedback,Not verified / external work required
+74,P1,Ask what the reader would tell a friend in ten seconds,Planned
+75,P1,Publish genuine corrections and errata by day number,Planned
+76,P1,Publish actual physical proof photos,Not verified / external work required
+77,P1,Invite a critical outside copyeditor,Not verified / external work required
+78,P1,"Make institutional acceptance claims only for named, verified institutions",Not verified / external work required
+79,P2,Build a reader-advisory circle,Planned
+80,P2,Publish aggregate reader usefulness results,Planned
+81,P0,Check grayscale print contrast,Not verified / external work required
+82,P0,Include plain-text descriptions of illustrated humor,Planned
+83,P0,Make the website keyboard navigable and readable at 320px wide,Partially implemented — verification or future launch required
+84,P0,"Test every download, contact link and published file",Partially implemented — verification or future launch required
+85,P1,Support easy recipient-less contact,Partially implemented — verification or future launch required
+86,P1,Provide a low-bandwidth HTML sampler,Partially implemented — verification or future launch required
+87,P1,Avoid any account or data collection for the browser puzzle,Partially implemented — verification or future launch required
+88,P1,Document customer service replies and shipping escalation rules,Not verified / external work required
+89,P2,Translate the sampler into Spanish with human review,Planned
+90,P2,Produce a large-print version,Planned
+91,P0,Decide the 2027 production deadline using real proof and vendor lead times,Not verified / external work required
+92,P1,Start a 2028 idea ledger by day number,Planned
+93,P1,"Use anonymous, voluntary one-question feedback",Planned
+94,P1,Build a release scorecard,Planned
+95,P1,Measure net contribution per channel,Planned
+96,P1,Test a donation-sponsored copy pilot,Planned
+97,P2,Explore a 2028 subscription reminder,Planned
+98,P2,Consider topical mini-books,Planned
+99,P2,Give bookstores and sponsors transparent bulk tiers,Planned
+100,P2,Turn proven reader suggestions into next year's improvements,Planned

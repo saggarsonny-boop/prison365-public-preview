@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://prison365.newphysician.org/sitemap.xml

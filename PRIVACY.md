@@ -1,0 +1,3 @@
+# Privacy and reader trust
+
+This public-preview site is a static website. The built-in mini Sudoku runs entirely in the visitor's browser and does not transmit answers or store them on a server. The site currently has no signup form, analytics scripts, payment checkout or user account. The email links open the visitor's own email application; messages then follow the sender's email service and the recipient's email service. Do not put an incarcerated person's private information or case details into a general inquiry. If future versions add analytics, subscriptions or payments, update this policy before activation.
